@@ -19,7 +19,7 @@ I'm a junior management controller in a port handling company, always eager to l
 
 ## 📫 How to reach me
 - Email: barnabeagueh@gmail.com
-- [LinkedIn](hhttps://www.linkedin.com/in/barnab%C3%A9-prudent-mahugnon-agueh-43728835b/)
+- [LinkedIn](https://www.linkedin.com/in/barnab%C3%A9-prudent-mahugnon-agueh-43728835b/)
 
 ---
 
