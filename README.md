@@ -23,4 +23,4 @@ I'm a junior management controller in a port handling company, always eager to l
 
 ---
 
-_“There is one way to live a meaningful live: make everyone as happier as oneself .”_
+_“There is one way to live a meaningful life: make everyone as happier as oneself .”_
