@@ -13,10 +13,6 @@ I'm a junior management controller in a port handling company, always eager to l
 ## 🌟 Projects
 - [PHP Framework](https://github.com/Barnab1/Php_Framework): A robust, simple PHP framework designed for small websites.
 
-## 📈 GitHub Stats
-![Barnab1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Barnab1&show_icons=true&theme=radical)
-
-
 ## 📫 How to reach me
 - Email: barnabeagueh@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/barnab%C3%A9-prudent-mahugnon-agueh-43728835b/)
